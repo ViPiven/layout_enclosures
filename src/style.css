@@ -3,8 +3,11 @@ body {
   background-color: #000;
 }
 
-.external {
+* {
   box-sizing: border-box;
+}
+
+.external {
   background-color: #3a92c3;
   width: 350px;
 }
