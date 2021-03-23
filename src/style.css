@@ -12,18 +12,20 @@ body {
   width: 350px;
 }
 
-section,
+.outer__section,
 .external {
   padding: 10px;
+}
+
+.border {
   border: 1px solid  #e95d49;
 }
 
-section {
+.outer__section {
   background-color: #fea90d;
 }
 
 .inner {
-  border: 1px solid #e95d49;
   padding: 10px;
   background-color: #ddd;
   margin: 0;
