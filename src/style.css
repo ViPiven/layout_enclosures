@@ -12,7 +12,7 @@ body {
   width: 350px;
 }
 
-.outer__section,
+.outer_section,
 .external {
   padding: 10px;
 }
@@ -21,7 +21,7 @@ body {
   border: 1px solid  #e95d49;
 }
 
-.outer__section {
+.outer_section {
   background-color: #fea90d;
 }
 
